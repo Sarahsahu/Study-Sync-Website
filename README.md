@@ -16,5 +16,5 @@ StudySync is a responsive educational platform landing page built with HTML and 
 - Basic Responsive Design (Flexbox & Grid)  
 - Media Queries & CSS Animations  
 
-🔗 **Live Demo:** [https://sarahsahu.github.io/Study-Sync-Website/](https://sarahsahu.github.io/Study-Sync-Website/)
+🔗 **Live Demo:** [Click for Live Demo](https://Saumya6250.github.io/Study-Sync-Website/)
 
